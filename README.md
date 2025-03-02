@@ -1,4 +1,4 @@
-<p align="left"><h3>Hello! My name is Pavel.<h3><br>I am currently pursuing a degree in a technical field at university, where I am learning the skills and knowledge necessary to develop innovative IT products. My studies focus on both the theoretical foundations and practical applications of technology, preparing me to contribute effectively to the ever-evolving world of IT.</p>
+<p align="left"><h3>Hello! My name is Pavel.</h3><br>I am currently pursuing a degree in a technical field at university, where I am learning the skills and knowledge necessary to develop innovative IT products. My studies focus on both the theoretical foundations and practical applications of technology, preparing me to contribute effectively to the ever-evolving world of IT.</p>
 
 ###
 
